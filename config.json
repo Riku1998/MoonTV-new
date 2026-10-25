@@ -1,45 +1,104 @@
 {
-  "cache_time": 7200,
-  "api_site": {
-    "索尼": {
-      "name": "索尼",
-      "api": "https://suoniapi.com/api.php/provide/vod"
-    },
-    "豪华": {
-      "name": "豪华",
-      "api": "https://hhzyapi.com/api.php/provide/vod"
-    },
-    "量子资源": {
-      "name": "量子资源",
-      "api": "https://cj.lzcaiji.com/api.php/provide/vod"
-    },
-    "暴风": {
-      "name": "暴风",
-      "api": "https://bfzyapi.com/api.php/provide/vod"
-    },
-    "牛牛": {
-      "name": "牛牛",
-      "api": "https://api.niuniuzy.me/api.php/provide/vod/"
-    },
-    "量子": {
-      "name": "量子",
-      "api": "https://cj.lziapi.com/api.php/provide/vod"
-    },
-    "红牛": {
-      "name": "红牛",
-      "api": "https://www.hongniuzy2.com/api.php/provide/vod"
-    },
-    "魔都": {
-      "name": "魔都",
-      "api": "https://www.mdzyapi.com/api.php/provide/vod"
-    },
-    "非凡": {
-      "name": "非凡",
-      "api": "https://api.ffzyapi.com/api.php/provide/vod"
-    },
-    "IK": {
-      "name": "IK",
-      "api": "https://ikunzyapi.com/api.php/provide/vod/from/ikm3u8/"
+    "cache_time": 7200,
+    "api_site": {
+        "索尼": {
+            "name": "索尼",
+            "api": "https://suoniapi.com/api.php/provide/vod"
+        },
+        "豪华": {
+            "name": "豪华",
+            "api": "shturl.cc/hRBu4QoyaSAGJB7OPHQqdarrh4hvy"
+        },
+        "量子资源": {
+            "name": "量子资源",
+            "api": "https://cj.lziapi.com/api.php/provide/vod"
+        },
+        "暴风": {
+            "name": "暴风",
+            "api": "https://bfzyapi.com/api.php/provide/vod"
+        },
+        "牛牛": {
+            "name": "牛牛",
+            "api": "https://api.niuniuzy.me/api.php/provide/vod/"
+        },
+        "红牛": {
+            "name": "红牛",
+            "api": "https://www.hongniuzy2.com/api.php/provide/vod"
+        },
+        "魔都": {
+            "name": "魔都",
+            "api": "shturl.cc/y3irKFFis7ql30JQvfFExJD5BEU2wKQgV"
+        },
+        "非凡": {
+            "name": "非凡",
+            "api": "shturl.cc/JkmQ2/api.php/provide/vod",
+            "detail": "shturl.cc/JkmQ2"
+        },
+        "IK": {
+            "name": "IK",
+            "api": "https://ikunzyapi.com/api.php/provide/vod/from/ikm3u8/"
+        },
+        "dyttzy": {
+            "api": "shturl.cc/mEL6k9lFaMUKBwRQaNJVKUShEaF3NVupQjcT",
+            "name": "电影天堂",
+            "detail": "shturl.cc/zmBKmrwFXFAl9DLc"
+        },
+        "ruyi": {
+            "api": "shturl.cc/50AA2dTyoD36HZqHqZc7jKMYC5PhcAL",
+            "name": "如意资源"
+        },
+        "tyyszy": {
+            "api": "https://tyyszy.com/api.php/provide/vod",
+            "name": "天涯资源"
+        },
+        "zy360": {
+            "api": "shturl.cc/5TTLY9r8EiIfwW24yAmM0kV1gdM",
+            "name": "360资源"
+        },
+        "maotaizy": {
+            "api": "https://caiji.maotaizy.cc/api.php/provide/vod",
+            "name": "茅台资源"
+        },
+        "wolong": {
+            "api": "https://wolongzyw.com/api.php/provide/vod",
+            "name": "卧龙资源"
+        },
+        "jisu": {
+            "api": "https://jszyapi.com/api.php/provide/vod",
+            "name": "极速资源",
+            "detail": "https://jszyapi.com"
+        },
+        "dbzy": {
+            "api": "shturl.cc/t3uc8zKJ2rDXOc7oEKqLRvwrf",
+            "name": "豆瓣资源"
+        },
+        "mozhua": {
+            "api": "shturl.cc/Qzyp3iUz84blEarYXr1nwmagd8YmVF",
+            "name": "魔爪资源"
+        },
+        "zuid": {
+            "api": "https://api.zuidapi.com/api.php/provide/vod",
+            "name": "最大资源"
+        },
+        "yinghua": {
+            "api": "https://m3u8.apiyhzy.com/api.php/provide/vod",
+            "name": "樱花资源"
+        },
+        "wujin": {
+            "api": "https://api.wujinapi.me/api.php/provide/vod",
+            "name": "无尽资源"
+        },
+        "wwzy": {
+            "api": "shturl.cc/veUHfZ7KyBoKVLIjol1nNqNwx",
+            "name": "旺旺短剧"
+        },
+        "ikun": {
+            "api": "https://ikunzyapi.com/api.php/provide/vod",
+            "name": "iKun资源"
+        },
+        "bdzy": {
+            "api": "https://api.apibdzy.com/api.php/provide/vod",
+            "name": "百度资源"
+        }
     }
-  }
 }
